@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans antialiased;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer utilities {
+  .animate-fade-in {
+    animation: fadeIn 1s ease-in;
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+/* Reduce font-size slightly when Tamil is active to make Tamil text one point smaller visually */
+.ta-smaller {
+  /* Use a relative scaling: 0.9375rem equals 15px when root is 16px (1pt ~ 0.75px) */
+  font-size: 0.9375rem;
+}
+
+.ta-smaller * {
+  font-size: inherit;
+}
