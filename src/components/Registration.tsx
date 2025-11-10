@@ -50,15 +50,24 @@ export default function Registration({ language }: RegistrationProps) {
           })}
         </div>
 
-        <div className="text-center mb-12">
+        <div className="text-center mb-12 space-y-4 sm:space-y-0 sm:space-x-4">
           <a
-            href="https://forms.gle/your-google-form-id"
+            href="https://forms.gle/Ha7q2oQpKumfLf7j9"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-3 bg-white text-red-900 px-10 py-4 rounded-full text-xl font-semibold hover:bg-amber-100 transform hover:-translate-y-1 transition-all duration-300 shadow-xl"
+            className="inline-flex items-center gap-3 bg-white text-red-900 px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-100 transform hover:-translate-y-1 transition-all duration-300 shadow-xl"
           >
             {t.registration.button}
-            <ExternalLink className="w-6 h-6" />
+            <ExternalLink className="w-5 h-5" />
+          </a>
+          <a
+            href="https://forms.gle/TBoQ4NFPp5FV54LMA"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-3 bg-white text-red-900 px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-100 transform hover:-translate-y-1 transition-all duration-300 shadow-xl"
+          >
+            {t.registration.abstractButton}
+            <FileText className="w-5 h-5" />
           </a>
         </div>
 

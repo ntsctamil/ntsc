@@ -284,7 +284,8 @@ export const translations = {
         }
       ],
       button: 'Register Now',
-  note: ''
+      abstractButton: 'Submit Abstract',
+      note: ''
       ,
       targetAudience: {
         title: 'Target Audience & Participants',
@@ -595,7 +596,8 @@ export const translations = {
         }
       ],
       button: 'இப்போது பதிவு செய்யுங்கள்',
-  note: ''
+      abstractButton: 'சுருக்கக் கட்டுரை சமர்ப்பிக்க',
+      note: ''
       ,
       targetAudience: {
         title: 'இலக்கு நபர்கள் மற்றும் பங்கேற்பாளர்கள்',

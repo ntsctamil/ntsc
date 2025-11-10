@@ -12,7 +12,11 @@ export default function Committee({ language }: CommitteeProps) {
   return (
     <section id="committee" className="py-20 bg-white">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
-        <h2 className={`${language === 'ta' ? 'text-4xl sm:text-5xl' : 'text-3xl sm:text-4xl'} font-bold text-center text-amber-900 mb-8`}>
+        <h2 className={`${
+            language === 'ta' 
+              ? 'text-4xl sm:text-5xl' 
+              : 'text-2xl sm:text-3xl md:text-4xl'
+          } font-bold text-center text-amber-900 mb-8`}>
           {t.committee.title}
         </h2>
 
@@ -24,7 +28,11 @@ export default function Committee({ language }: CommitteeProps) {
           </div>
 
           {subtitle && (
-            <p className={`${language === 'ta' ? 'text-xl md:text-2xl' : 'text-lg md:text-xl'} text-gray-700 leading-relaxed text-center font-semibold mb-4`}>
+            <p className={`${
+              language === 'ta' 
+                ? 'text-xl md:text-2xl' 
+                : 'text-base sm:text-lg md:text-xl'
+            } text-gray-700 leading-relaxed text-center font-semibold mb-4`}>
               {subtitle}
             </p>
           )}
@@ -42,10 +50,10 @@ export default function Committee({ language }: CommitteeProps) {
 
                 // Chief patron -> single wide centered card (always center)
                 if (titleLower.includes('chief')) {
-                  gridClass = 'flex justify-center';
-                  cardClass = 'p-8 bg-gradient-to-br from-amber-50 to-red-50 rounded-xl shadow-xl border-2 border-amber-200 w-full max-w-3xl relative overflow-hidden hover:border-amber-400 transition-all duration-300';
-                  nameClass = 'leading-relaxed text-amber-900 text-center text-base md:text-lg font-bold';
-                  decorClass = 'absolute inset-0 border-4 border-amber-200/40 rounded-lg m-3 pointer-events-none';
+                  gridClass = 'flex justify-center px-4';
+                  cardClass = 'p-4 sm:p-6 md:p-8 bg-gradient-to-br from-amber-50 to-red-50 rounded-xl shadow-xl border-2 border-amber-200 w-full max-w-3xl relative overflow-hidden hover:border-amber-400 transition-all duration-300';
+                  nameClass = 'leading-relaxed text-amber-900 text-center text-sm sm:text-base md:text-lg lg:text-xl font-bold';
+                  decorClass = 'absolute inset-0 border-2 sm:border-3 md:border-4 border-amber-200/40 rounded-lg m-2 sm:m-3 pointer-events-none';
                 } else if (titleLower.includes('patron') && !titleLower.includes('co')) {
                   // Patrons (not co-patrons)
                   if (itemCount === 1) {
@@ -89,7 +97,11 @@ export default function Committee({ language }: CommitteeProps) {
                       {section.items.map((it: string, idx: number) => (
                         <div key={idx} className={cardClass}>
                           <div className={decorClass}></div>
-                          <p className={`${language === 'ta' ? 'leading-tight' : 'leading-relaxed'} ${nameClass}`}>
+                          <p className={`${
+                            language === 'ta' 
+                              ? 'leading-tight' 
+                              : 'leading-relaxed text-xs sm:text-sm md:text-base lg:text-lg'
+                          } ${nameClass}`}>
                             {it}
                           </p>
                         </div>
