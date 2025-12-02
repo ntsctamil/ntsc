@@ -80,7 +80,7 @@ export const translations = {
       title: 'Important Dates',
       timeline: [
         {
-          date: '15 Oct., 2025',
+          date: '12 Nov., 2025',
           event: 'Call for Abstracts and Registration Starts'
         },
         {
@@ -156,103 +156,123 @@ export const translations = {
         {
           title: 'Chief Patrons',
           items: [
-            'Dr. Kalaiselvi – Director General, CSIR & Secretary - DSIR',
-            'Dr. M. Ravichandran – Secretary, Ministry of Earth Science',
-            'Dr. Sekhar C. Mande – President, VIBHA',
-            'Dr. Narayanan – ISRO'
+            'Dr. M. Ravichandran, Secretary, MoES, GOI',
+            'Dr. N. Kalaiselvi, Director General, CSIR & Secretary DSIR, GOI',
+            'Dr. V. Narayanan, Secretary, DoS, & Chairman ISRO, GOI',
+            'Dr. Sekar C. Mande, National President, VIBHA'
           ]
         },
         {
-          title: 'Patron',
+          title: 'Patron / Chairman',
           items: [
-            'Dr. N. Anandavalli – Director, CSIR – SERC'
+            'Dr. N. Anandavalli, Director, CSIR-SERC, Chennai'
           ]
         },
         {
-          title: 'Co-Patrons',
+          title: 'Co-Chair',
           items: [
-            'To be updated'
+            'Dr. B. Chandrasekar, Former Director, CSIR-CLRI, Chennai',
+            'Dr. S. Parivallal, Chief Scientist & Advisor, CSIR-SERC, Chennai',
+            'Prof. S. A. Sannasiraj, Chair Professor, IIT-Madras, Chennai',
+            'Dr. V. Parthasarathy, Vice-President, Arivial Sangam, Tamil Nadu'
           ]
         },
         {
-          title: 'Chairperson',
+          title: 'Convenor',
           items: [
-            'Dr. V. Umaiyorubagan'
+            'Dr. Mani Prahashpathy, Secretary, Arivial Sangam, Tamil Nadu'
           ]
         },
         {
-          title: 'Vice Chairperson',
+          title: 'Secretary General',
           items: [
-            'Dr. V. Parthasarathi'
+            'Dr. Chandrabose Selvaraj, Joint Secretary, Arivial Sangam, Tamil Nadu'
           ]
         },
         {
-          title: 'Coordinators',
+          title: 'Joint Secretaries',
           items: [
-            'Dr. B. Chandrasekar – CLRI',
-            'Dr. S. Chandrasekaran – IGCAR'
+            'Dr. S. Saravanakumar, Joint Secretary, Arivial Sangam, Tamil Nadu',
+            'Dr. S. Athimoolam, Joint Secretary, Arivial Sangam, Tamil Nadu',
+            'Dr. T. Suthan, EC member, Arivial Sangam, Tamil Nadu'
           ]
         },
         {
-          title: 'Treasurer',
+          title: 'Advisory Board',
           items: [
-            'Dr. J. Jayakanthan'
+            'Dr. V. Kamakoti, Director, IIT Madras',
+            'Dr. B. Venkatraman, Former Director, IGCAR, Kalpakkam',
+            'Dr. Balaji Ramakrishnan, Director, NIOT, Chennai',
+            'Dr. M. Krishnan, Vice Chancellor, CUTN, Thiruvarur',
+            'Dr. Panchanathan Natarajan, Vice Chancellor, GRU, Dindigul',
+            'Dr. R. Selvarajan, Director, ICAR-NRCB, Trichy',
+            'Dr. N. Chandrasekar, Vice-Chancellor, MSU, Tirunelveli',
+            'Dr. Usha Natesan, Director - NITTTR, Chennai',
+            'Dr. G. Aghila, Director, National Institute of Technology, Trichy',
+            'Shri. Vivekanada Pai, Secretary General, Vijnana Bharati, New Delhi',
+            'Dr. Shiv Kumar Sharma, National Organizing Secretary, Vijnana Bharati, New Delhi',
+            'Shri. Praveen Ramadas, National Joint Organizing Secretary, Vijnana Bharati, New Delhi',
+            'Shri. R. Abga, Organizing Secretary (South Zone), Vijnana Bharati, New Delhi'
           ]
         },
         {
-          title: 'Organizing Secretary',
+          title: 'Academic Committee',
           items: [
-            'Dr. Mani Pragaspathi'
+            'Dr. V. Umayoru bagan, President, Arivial Sangam, Tamil Nadu',
+            'Dr. S. Chandrasekaran, Sr. Scientist, IGCAR, Kalpakkam',
+            'Dr. J. Jeyakanthan, Professor, Alagappa University, Karaikudi',
+            'Dr. B. Madan, Sr. Principal Scientist, CSIR-CLRI, Chennai',
+            'Dr. TATA Sudhakar, Scientist-G (Rtd.), NIOT, Chennai',
+            'Dr. D. Ponraju, Scientist-OS (Rtd.), IGCAR, Kalpakkam',
+            'Dr. P. Sakthivel, CoE, Anna University, Chennai',
+            'Dr. B. Ramalingam, Scientist-E, ICMR-NIRT, Chennai'
           ]
         },
         {
-          title: 'Joint Organizing Secretaries',
+          title: 'Regional Coordinators',
           items: [
-            'Dr. Adimoolam',
-            'Dr. Chandrabose Selvaraj',
-            'Dr. Saravanakumar'
+            'Dr. M. V. Sureshkumar, Janson Institute of Technology, Coimbatore',
+            'Dr. Uthra Durairajan, DG Vaishnav College, Chennai',
+            'Dr. N. Ganga Vidya, National Institute of Technology, Trichy',
+            'Dr. M. Chandra, National College, Trichy',
+            'Dr. P. Baskaran, CEO, Cliff Engineering Works, Trichy',
+            'Dr. T. Thilagavathy, CMS College of Science and Commerce, Coimbatore',
+            'Dr. S. Subramanian, V.O.Chidambaram College, Thoothukkudi',
+            'Dr. S. Jeyashankari, V.O.Chidambaram College, Thoothukkudi',
+            'Dr. V. Manikandane, National Institute of Technology, Karaikal'
           ]
         },
         {
-          title: 'Organizing Committee Members',
+          title: 'Technical & Organizing Committee',
           items: [
-            'Dr. Bharath Sabareesh',
-            'Dr. M. Chandra',
-            'Dr. Subramanian',
-            'Dr. Jayasankari Senthilkumar',
-            'Dr. Sureshkumar',
-            'Dr. Uthra Durairajan',
-            'Dr. Sanjeev Singh',
-            'Dr. Thilagavathi',
-            'Dr. P. Baskaran',
-            'Dr. Gayathri G. D.',
-            'Dr. Kumar Rathinam',
-            'Dr. Meenakshi Sundaram',
-            'Dr. Manikandan',
-            'Sh. Prathigan',
-            'Dr. Rajaram',
-            'Dr. Sudhan',
-            'Dr. Sudhakar',
-            'Dr. Vettrivelan V',
-            'Thiru. Jayakar',
-            'Sri. Rajagopala Swami',
-            'Sri. S. P. Rajendran',
-            'Dr. Bhuvaneswaran',
-            'Sri. S. Saiganesh',
-            'Sri. M. C. Ranjith',
-            'Er. Lakshmi Priya',
-            'Sri. Alexander',
-            'Sri. Shyamala Vijay',
-            'Sri. Aravind'
-          ]
-        },
-        {
-          title: 'National Advisory Committee',
-          items: [
-            'Dr. P. Sakthivel',
-            'Er. P. Sabanayagam',
-            'Dr. TATA. Sudhakar – NIOT',
-            'Dr. B. Madan'
+            'Dr. K. Jothi venkatachalam, Anna University (BIT Campus), Trichy',
+            'Dr. Sanjeev Kumar Singh, Alagappa University, Karaikudi',
+            'Dr. P. Sabanayagam, Entrepreneur, Erode',
+            'Dr. M. Krishnakumar, Anna University (Regional Campus), Tirunelveli',
+            'Dr. S. Sudhakar, CSIR-CERI, Karaikudi',
+            'Dr. Bharath Sabareesh, K.Ramakrishna College of Engg. & Tech., Trichy',
+            'Dr. G. D. Gayathri, Anna University (BIT Campus), Trichy',
+            'Dr. Kaimozhi, Anna University (BIT Campus), Trichy',
+            'Dr. Kumar Rathinam, Secretary, Arivial Snagam Trichy–Chapter, Trichy',
+            'Shri. Brathikan, Kumaraguru College of Engineering, Coimbatore',
+            'Dr. Rajaram, Secretary, Siddharaja International School, Sivakasi',
+            'Dr. V. Vetrivelan, Govt. College of Engg., Trichy',
+            'Dr. S. Jayakar, National Secretary, NASYA, Chennai',
+            'Dr. Anuradha Kumaraguru, AM Jain College, Chennai',
+            'Dr. J. Jaya Venkatesh, Kokila Siddha Hospital, Madurai',
+            'Dr. C. Shankar Ram, Anna University (BIT Campus), Trichy',
+            'Dr. M.Renga samy, Anna University (BIT Campus), Trichy',
+            'Er. Nirmala Rengasamy, BHEL, Trichy',
+            'Dr. Ilango, Thulasiram Hospital, Thanjavur',
+            'Dr. K. Murugesan, Anna University (BIT Campus), Trichy',
+            'Dr. Chandrasekaran, Anna University (BIT Campus), Trichy',
+            'Dr. M. Subasini, Mailam Engineering College, Thindivanam',
+            'Shri. G. Kannanbiran, VVM – South Zone coordinator, Vijnana Bharati',
+            'Shri. K. Vasudevan, President, Arivial Sangam, Trichy Zone',
+            'Shri. R. D. Sathish Kumar, CSIR-SERC, Chennai',
+            'Dr. J. Subha, Venkteswara Engg College, Chennai',
+            'Dr. B. Abirami kumar, Srimad Andavan College, Trichy',
+            'Dr. Selva kumar, Nalanda School Of Business, Trichy'
           ]
         }
       ]
@@ -391,7 +411,7 @@ export const translations = {
       title: 'முக்கிய தேதிகள்',
       timeline: [
         {
-          date: '15 அக்டோபர், 2025',
+          date: '12 நவம்பர், 2025',
           event: 'சுருக்கக் கட்டுரைகள் மற்றும் பதிவு தொடக்கம்'
         },
         {
@@ -466,105 +486,125 @@ export const translations = {
       title: 'குழு',
       details: [
         {
-          title: 'தலைமையுரவலர்கள்',
+          title: 'தலைமை புரவலர்கள்',
           items: [
-            'டாக்டர் கலைசெல்வி – தலைமை இயக்குநர், CSIR & செயலாளர் - DSIR',
-            'டாக்டர் எம். ரவிச்சந்திரன் – செயலாளர், பூமி அறிவியல் அமைச்சகம்',
-            'டாக்டர் சேகர் சி. மண்டே – தலைவர், VIBHA',
-            'டாக்டர் நாராயணன் – ISRO'
+            'Dr. M. ரவிச்சந்திரன், Secretary, MoES, GOI',
+            'Dr. N. கலைச்செல்வி, Director General, CSIR & Secretary DSIR, GOI',
+            'Dr. V. நாராயணன், Secretary, DoS, & Chairman ISRO, GOI',
+            'Dr. சேகர் C. மாண்டே, National President, VIBHA'
           ]
         },
         {
-          title: 'புரவலர்',
+          title: 'புரவலர் / தலைவர்',
           items: [
-            'டாக்டர் என். ஆனந்தவல்லி – இயக்குநர், CSIR – SERC'
+            'Dr. N. ஆனந்தவல்லி, Director, CSIR-SERC, Chennai'
           ]
         },
         {
-          title: 'இணை புரவலர்',
+          title: 'இணை புரவலர்கள்',
           items: [
-            'புதுப்பிக்கப்படும்'
+            'Dr. B. சந்திரசேகர், Former Director, CSIR-CLRI, Chennai',
+            'Dr. S. பாரிவள்ளல், Chief Scientist & Advisor, CSIR-SERC, Chennai',
+            'Prof. S. A. சன்னாசிராஜ், Chair Professor, IIT-Madras, Chennai',
+            'Dr. V. பார்த்தசாரதி, Vice-President, Arivial Sangam, Tamil Nadu'
           ]
         },
         {
-          title: 'தலைவர்',
+          title: 'ஒருங்கிணைப்பாளர்',
           items: [
-            'டாக்டர் வி. உமையொருபாகன்'
+            'Dr. மணி பிரஹஸ்பதி, Secretary, Arivial Sangam, Tamil Nadu'
           ]
         },
         {
-          title: 'துணைத் தலைவர்',
+          title: 'பொது செயலாளர்',
           items: [
-            'டாக்டர் வி. பார்த்தசாரதி'
+            'Dr. சந்திரபோஸ் செல்வராஜ், Joint Secretary, Arivial Sangam, Tamil Nadu'
           ]
         },
         {
-          title: 'ஒருங்கிணைப்பாளர்கள்',
+          title: 'இணை செயலாளர்கள்',
           items: [
-            'டாக்டர் பி. சந்திரசேகர் – CLRI',
-            'டாக்டர் எஸ். சந்திரசேகரன் – IGCAR'
+            'Dr. S. சரவணக்குமார், Joint Secretary, Arivial Sangam, Tamil Nadu',
+            'Dr. S. ஆதிமூலம், Anna University(Regional Campus), Tirunelveli',
+            'Dr. T. சுதன், EC member, Arivial Sangam, Tamil Nadu'
           ]
         },
         {
-          title: 'பொருளாளர்',
+          title: 'ஆலோசனை குழு',
           items: [
-            'டாக்டர் ஜெ. ஜெயகாந்தன்'
+            'Dr. V. காமகோடி, Director, IIT Madras',
+            'Dr. B. வெங்கட்ராமன், Former Director, IGCAR, Kalpakkam',
+            'Dr. பாலாஜி ராமகிருஷ்ணன், Director, NIOT, Chennai',
+            'Dr. M. கிருஷ்ணன், Vice Chancellor, CUTN, Thiruvarur',
+            'Dr. பஞ்சநாதம் நடராஜன், Vice Chancellor, GRU, Dindigul',
+            'Dr. R. செல்வராஜன், Director, ICAR-NRCB, Trichy',
+            'Dr. N. சந்திரசேகர், Vice-Chancellor, MSU, Tirunelveli',
+            'Dr. உஷா நடேசன், Director - NITTTR, Chennai',
+            'Dr. G. அகிலா, Director, National Institute of Technology, Trichy',
+            'Shri. விவேகானந்த பாய், Secretary General, Vijnana Bharati, New Delhi',
+            'Dr. சிவ் குமார் சர்மா, National Organizing Secretary, Vijnana Bharati, New Delhi',
+            'Shri. பிரவீன் ராமதாஸ், National Joint Organizing Secretary, Vijnana Bharati, New Delhi',
+            'Shri. R. அப்கா, Organizing Secretary (South Zone), Vijnana Bharati, New Delhi'
           ]
         },
         {
-          title: 'அமைப்புச் செயலாளர்',
+          title: 'கல்லிக்குழு',
           items: [
-            'டாக்டர் மணி பிரகஸ்பதி'
+            'Dr. V. உமையொரு பாகன், President, Arivial Sangam, Tamil Nadu',
+            'Dr. S. சந்திரசேகரன், Sr. Scientist, ISGAC, Kalpakkam',
+            'Dr. J. ஜெயகாந்தன், Professor, Alagappa University, Karaikudi',
+            'Dr. B. மதன், Sr. Principal Scientist, CSIR-CLRI, Chennai',
+            'Dr. TATA சுதாகர், Scientist-G (Rtd.), NIOT, Chennai',
+            'Dr. D. பொன்ராஜு, Scientist-OS (Rtd.), IGCAR, Kalpakkam',
+            'Dr. P. சக்திவேல், CoE, Anna University, Chennai',
+            'Dr. B. ராமலிங்கம், Scientist-E, ICMR-NIRT, Chennai'
           ]
         },
         {
-          title: 'இணை அமைப்புச் செயலாளர்கள்',
+          title: 'மண்டல ஒருங்கிணைப்பாளர்கள்',
           items: [
-            'டாக்டர் ஆதிமூலம்',
-            'டாக்டர் சந்திரபோஸ் செல்வராஜ்',
-            'டாக்டர் சரவணக்குமார்'
+            'Dr. M. V. சுரேஷ்குமார், Janson Institute of Technology, Coimbatore',
+            'Dr. உத்ரா துரையராஜன், DG Vaishnav College, Chennai',
+            'Dr. N. கங்கா வித்யா, National Institute of Technology, Trichy',
+            'Dr. M. சந்திரா, National College, Trichy',
+            'Dr. P. பாஸ்கரன், CEO, Cliff Engineering Works, Trichy',
+            'Dr. T. திலகவதி, CMS College of Science and Commerce, Coimbatore',
+            'Dr. S. சுப்பிரமணியம், V.O.Chidambaram College, Thoothukkudi',
+            'Dr. S. ஜேயாஷங்கரி, V.O.Chidambaram College, Thoothukkudi',
+            'Dr. V. மணிகண்டன், National Institute of Technology, Karaikal'
           ]
         },
         {
-          title: 'ஏற்பாட்டுக் குழு உறுப்பினர்கள்',
+          title: 'தொழில்நுட்ப மற்றும் ஏற்பாட்டு குழு',
           items: [
-            'டாக்டர் பரத் சபரீஷ்',
-            'டாக்டர் ம. சந்திரா',
-            'டாக்டர் சுப்பிரமணியன்',
-            'டாக்டர் ஜெயசங்கரி செந்தில்குமார்',
-            'டாக்டர் சுரேஷ்குமார்',
-            'டாக்டர் உத்ரா துரைராஜன்',
-            'டாக்டர் சஞ்சீவ் சிங்',
-            'டாக்டர் திலகவதி',
-            'டாக்டர் பெ. பாஸ்கரன்',
-            'டாக்டர் காயத்ரி G D',
-            'டாக்டர் குமார் இரத்தினம்',
-            'டாக்டர் மீனாக்ஷி சுந்தரம்',
-            'டாக்டர் மணிகண்டன்',
-            'திரு. ப்ரத்திகன்',
-            'டாக்டர் இராஜாராம்',
-            'டாக்டர் சுதன்',
-            'டாக்டர் சுதாகர்',
-            'டாக்டர் வெற்றி வேலன் V',
-            'திரு. ஜெயகர்',
-            'ஸ்ரீ. இராஜ கோபால சாமி',
-            'ஸ்ரீ. எஸ். பி. இராஜேந்திரன்',
-            'டாக்டர் புவனேஸ்வரன்',
-            'ஸ்ரீ. சி. சாய்கணேஷ்',
-            'ஸ்ரீ. ம. சி. ரஞ்சித்',
-            'இய. லக்ஷ்மி பிரியா',
-            'ஸ்ரீ. அலெக்சாண்டர்',
-            'ஸ்ரீ. சியாமளா விஜய்',
-            'ஸ்ரீ. அரவிந்த்'
-          ]
-        },
-        {
-          title: 'தேசிய ஆலோசனைக்குழு',
-          items: [
-            'டாக்டர் பி. சக்திவேல்',
-            'இய. பி. சபாநாயகம்',
-            'டாக்டர் டி.ஏ.டி.ஏ. சுதாகர் – NIOT',
-            'டாக்டர் பி. மதன்'
+            'Dr. K. ஜோதி வெங்கடாசலம், Anna University (BIT Campus), Trichy',
+            'Dr. சஞ்சீவ் குமார் சிங், Alagappa University, Karaikudi',
+            'Dr. P. சபநாயகம், Entrepreneur, Erode',
+            'Dr. M. கிருஷ்ணகுமார், Anna University (Regional Campus), Tirunelveli',
+            'Dr. S. சுதாகர், CSIR-CERI, Karaikudi',
+            'Dr. பரத் சபரீஷ், K.Ramakrishna College of Engg. & Tech., Trichy',
+            'Dr. G. D. காயத்ரி, Anna University (BIT Campus), Trichy',
+            'Dr. கனிமொழி, Anna University (BIT Campus), Trichy',
+            'Dr. குமார் ரத்தினம், Secretary, Arivial Sangam Trichy–Chapter, Trichy',
+            'Shri. பிரதிக்கன், Kumaraguru College of Engineering, Coimbatore',
+            'Dr. ராஜாராம், Secretary, Siddharaja International School, Sivakasi',
+            'Dr. V. வெற்றிவேலன், Govt. College of Engg., Trichy',
+            'Dr. S. ஜெயகர், National Secretary, NASYA, Chennai',
+            'Dr. அனுராதா குமரகுரு, AM Jain College, Chennai',
+            'Dr. J. ஜெயா வெங்கடேஷ், Kokila Siddha Hospital, Madurai',
+            'Dr. C. சங்கர் ராம், Anna University (BIT Campus), Trichy',
+            'Dr. M. ரெங்கா சாமி, Anna University (BIT Campus), Trichy',
+            'Er. நிர்மலா ரெங்கசாமி, BHEL, Trichy',
+            'Dr. இளங்கோ, Thulasiram Hospital, Thanjavur',
+            'Dr. K. முருகேசன், Anna University (BIT Campus), Trichy',
+            'Dr. சந்திரசேகரன், Anna University (BIT Campus), Trichy',
+            'Dr. சுபாஷினி, Mailam Engineering College, Thindivanam',
+            'Shri. G. கண்ணபிரான், VVM – South Zone coordinator, Vijnana Bharati',
+            'Shri. K. வாசுதேவன், President, Arivial Sangam Erode Chapter, Erode',
+            'Shri. R. D. சதீஷ் குமார், CSIR-SERC, Chennai',
+            'Dr. J. சுபா, Venkteswara Engg College, Chennai',
+            'Dr. B. அபிராமி குமார், Srimad Andavan College, Trichy',
+            'Dr. செல்வ குமார், Nalanda School Of Business, Trichy'
           ]
         }
       ]

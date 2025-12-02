@@ -9,7 +9,7 @@ import Venue from './components/Venue';
 import Footer from './components/Footer';
 
 function App() {
-  const [language, setLanguage] = useState<'en' | 'ta'>('en');
+  const [language, setLanguage] = useState<'en' | 'ta'>('ta');
 
   return (
     <div className={`min-h-screen ${language === 'ta' ? 'ta-smaller' : ''}`}>
