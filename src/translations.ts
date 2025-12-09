@@ -15,7 +15,7 @@ export const translations = {
       title: 'National Tamil Science Conference',
       subtitle: 'on',
       theme: 'Sustainable Development in Science and Technology',
-      dates: 'February 20-22, 2026',
+  dates: 'February 20–21, 2026',
       location: 'CSIR-SERC, Tharamani , Chennai',
       register: 'Register Now',
       organized: 'Jointly Organized by',
@@ -84,19 +84,19 @@ export const translations = {
           event: 'Call for Abstracts and Registration Starts'
         },
         {
-          date: '10 Jan., 2026',
+          date: '25 Jan., 2026',
           event: 'Last date for abstract'
         },
         {
-          date: '20 Jan., 2026',
+          date: '30 Jan., 2026',
           event: 'Acceptance of abstract'
         },
         {
-          date: '26 Jan., 2026',
+          date: '05 Feb., 2026',
           event: 'Last date of registration'
         },
         {
-          date: '20–22 Feb., 2026',
+          date: '20–21 Feb., 2026',
           event: 'Conference Dates',
           highlight: true
         }
@@ -189,6 +189,13 @@ export const translations = {
             'Dr. Chandrabose Selvaraj, Joint Secretary, Arivial Sangam, Tamil Nadu'
           ]
         },
+
+        {
+          title: 'Treasurer',
+          items: [
+            'Dr. J. Jeyakanthan, Professor, Alagappa University, Karaikudi'
+          ]
+        },
         {
           title: 'Joint Secretaries',
           items: [
@@ -274,7 +281,17 @@ export const translations = {
             'Dr. B. Abirami kumar, Srimad Andavan College, Trichy',
             'Dr. Selva kumar, Nalanda School Of Business, Trichy'
           ]
-        }
+        },
+        {
+          title: 'Overall Organizers',
+          items: [
+            'Rtr. S. Saiganesh, President, Rotaract Club of Anna University',
+            'Rtr. F. Alexander, Secretary, Rotaract Club of Anna University',
+            'Rtr. M. C. Ranjith, Web Developer, Treasurer - Rotaract Club of Anna University',
+            'Rtr. Aravind, Kalasalingam University',
+            
+          ]
+        },
       ]
     },
     registration: {
@@ -333,7 +350,7 @@ export const translations = {
       contact: {
         title: 'Contact',
         email: 'ntsc2026@gmail.com',
-        phone: '+91-44-2254 2315'
+        phone: '+91 91502 52295, +91 80568 83900, +91 99438 12370'
       }
     },
     footer: {
@@ -360,7 +377,7 @@ export const translations = {
       title: 'தேசிய\u00A0தமிழறிவியல்\u00A0மாநாடு',
       subtitle: '',
       theme: 'அறிவியல் மற்றும் தொழில்நுட்பத்தில் நிலையான வளர்ச்சி',
-      dates: 'பிப்ரவரி 20-22, 2026',
+  dates: 'பிப்ரவரி 20-21, 2026',
       location: 'CSIR-SERC, தரமணி, சென்னை',
       register: 'இப்போது பதிவு செய்யுங்கள்',
       organized: 'இணைந்து ஏற்பாடு செய்துள்ளவை',
@@ -415,19 +432,19 @@ export const translations = {
           event: 'சுருக்கக் கட்டுரைகள் மற்றும் பதிவு தொடக்கம்'
         },
         {
-          date: '10 ஜனவரி, 2026',
-          event: 'சுருக்கக் கட்டுரைக்கான கடைசி தேதி'
+          date: '25 ஜனவரி, 2026',
+          event: 'சுருக்கக் கட்டுரைக்கான கடை்சி தேதி'
         },
         {
-          date: '20 ஜனவரி, 2026',
+          date: '30 ஜனவரி, 2026',
           event: 'சுருக்கக் கட்டுரை ஏற்றுக்கொள்ளுதல்'
         },
         {
-          date: '26 ஜனவரி, 2026',
+          date: '05 பிப்ரவரி, 2026',
           event: 'பதிவுக்கான கடைசி தேதி'
         },
         {
-          date: '20–22 பிப்ரவரி, 2026',
+          date: '20–21 பிப்ரவரி, 2026',
           event: 'மாநாட்டு தேதிகள்',
           highlight: true
         }
@@ -521,6 +538,13 @@ export const translations = {
             'Dr. சந்திரபோஸ் செல்வராஜ், Joint Secretary, Arivial Sangam, Tamil Nadu'
           ]
         },
+
+        {
+          title: 'நிதி பொறுப்பாளர்',
+          items: [
+            'Dr. J. ஜெயகாந்தன், Professor, Alagappa University, Karaikudi'
+          ]
+        },
         {
           title: 'இணை செயலாளர்கள்',
           items: [
@@ -605,6 +629,18 @@ export const translations = {
             'Dr. J. சுபா, Venkteswara Engg College, Chennai',
             'Dr. B. அபிராமி குமார், Srimad Andavan College, Trichy',
             'Dr. செல்வ குமார், Nalanda School Of Business, Trichy'
+
+          ]
+        }
+        ,
+        {
+          title: 'ஏற்பாட்டாளர்கள்',
+          items: [
+            'Rtr. சாய் கணேஷ், President, Rotaract Club of Anna University',
+            'Rtr. F. அலெக்சாண்டர், Secretary, Rotaract Club of Anna University',
+            'Rtr. M. C. ரஞ்சித், Web Developer, Treasurer - Rotaract Club of Anna University',
+            'Rtr. அரவிந்த், Kalasalingam University',
+            
           ]
         }
       ]
@@ -656,7 +692,7 @@ export const translations = {
         title: 'முகவரி',
         lines: [
           'CSIR - கட்டமைப்பு பொறியியல் ஆராய்ச்சி மையம்',
-          'CSIR வளாகம், தாரமணி',
+          'CSIR வளாகம், தரமணி',
           'சென்னை - 600113',
           'தமிழ்நாடு, இந்தியா'
         ]
@@ -664,7 +700,7 @@ export const translations = {
       contact: {
         title: 'தொடர்பு',
         email: 'ntsc2026@gmail.com',
-        phone: '+91-44-2254 2315'
+        phone: '+91 91502 52295, +91 80568 83900, +91 99438 12370'
       }
     },
     footer: {

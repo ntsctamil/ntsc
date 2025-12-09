@@ -1,4 +1,5 @@
 import { translations } from '../translations';
+import { useState } from 'react';
 
 interface FooterProps {
   language: 'en' | 'ta';
@@ -6,6 +7,7 @@ interface FooterProps {
 
 export default function Footer({ language }: FooterProps) {
   const t = translations[language];
+  const [showLogo, setShowLogo] = useState(true);
 
   return (
     <footer className="bg-gradient-to-br from-amber-900 to-red-900 text-white py-12">
@@ -28,10 +30,28 @@ export default function Footer({ language }: FooterProps) {
           <p className={`${language === 'ta' ? 'text-base' : 'text-sm'} text-center text-amber-100`}>
             {t.footer.copyright}
           </p>
-          {t.footer.credit && (
-            <p className={`${language === 'ta' ? 'text-sm' : 'text-xs'} text-center text-amber-200`}>
-              {t.footer.credit}
-            </p>
+
+          {/* Attempt to load Rotaract logo from site root: /rotaract-logo.png
+              Place the provided image at the project `public/rotaract-logo.png` or server root.
+              If the image fails to load, we fall back to the textual credit. */}
+          {t.footer.credit && showLogo ? (
+            <div className="flex items-center justify-center mt-2">
+              <img
+                src="https://i.ibb.co/GrtKMZ3/b7604212-8fb5-4e76-aa77-7bf021624dff.jpg"
+                alt={t.footer.credit}
+                className="w-12 h-auto mr-3 object-contain"
+                onError={() => setShowLogo(false)}
+              />
+              <span className={`${language === 'ta' ? 'text-sm' : 'text-xs'} text-amber-200`}>
+                {t.footer.credit}
+              </span>
+            </div>
+          ) : (
+            t.footer.credit && (
+              <p className={`${language === 'ta' ? 'text-sm' : 'text-xs'} text-center text-amber-200`}>
+                {t.footer.credit}
+              </p>
+            )
           )}
         </div>
       </div>
