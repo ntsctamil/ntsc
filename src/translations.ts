@@ -279,17 +279,12 @@ export const translations = {
             'Shri. R. D. Sathish Kumar, CSIR-SERC, Chennai',
             'Dr. J. Subha, Venkteswara Engg College, Chennai',
             'Dr. B. Abirami kumar, Srimad Andavan College, Trichy',
-            'Dr. Selva kumar, Nalanda School Of Business, Trichy'
-          ]
-        },
-        {
-          title: 'Overall Organizers',
-          items: [
+            'Dr. Selva kumar, Nalanda School Of Business, Trichy',
+            'Rtr. M. Aravind, Research Scholar - Physics, Kalasalingam University',
             'Rtr. S. Saiganesh, President, Rotaract Club of Anna University',
-            'Rtr. F. Alexander, Secretary, Rotaract Club of Anna University',
-            'Rtr. M. C. Ranjith, Web Developer, Treasurer - Rotaract Club of Anna University',
-            'Rtr. Aravind, Kalasalingam University',
             
+            'Rtr. M. C. Ranjith, Web Developer, Treasurer - Rotaract Club of Anna University',
+            'Rtr. F. Alexander, Secretary, Rotaract Club of Anna University'
           ]
         },
       ]
@@ -628,18 +623,12 @@ export const translations = {
             'Shri. R. D. சதீஷ் குமார், CSIR-SERC, Chennai',
             'Dr. J. சுபா, Venkteswara Engg College, Chennai',
             'Dr. B. அபிராமி குமார், Srimad Andavan College, Trichy',
-            'Dr. செல்வ குமார், Nalanda School Of Business, Trichy'
-
-          ]
-        }
-        ,
-        {
-          title: 'ஏற்பாட்டாளர்கள்',
-          items: [
+            'Dr. செல்வ குமார், Nalanda School Of Business, Trichy',
+            'Rtr. M. அரவிந்த், Research Scholar - Physics, Kalasalingam University',
             'Rtr. சாய் கணேஷ், President, Rotaract Club of Anna University',
-            'Rtr. F. அலெக்சாண்டர், Secretary, Rotaract Club of Anna University',
+            
             'Rtr. M. C. ரஞ்சித், Web Developer, Treasurer - Rotaract Club of Anna University',
-            'Rtr. அரவிந்த், Kalasalingam University',
+            'Rtr. F. அலெக்சாண்டர், Secretary, Rotaract Club of Anna University'
             
           ]
         }
