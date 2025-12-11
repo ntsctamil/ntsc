@@ -625,7 +625,7 @@ export const translations = {
             'Dr. B. அபிராமி குமார், Srimad Andavan College, Trichy',
             'Dr. செல்வ குமார், Nalanda School Of Business, Trichy',
             'Rtr. M. அரவிந்த், Research Scholar - Physics, Kalasalingam University',
-            'Rtr. சாய் கணேஷ், President, Rotaract Club of Anna University',
+            'Rtr. S. சாய் கணேஷ், President, Rotaract Club of Anna University',
             
             'Rtr. M. C. ரஞ்சித், Web Developer, Treasurer - Rotaract Club of Anna University',
             'Rtr. F. அலெக்சாண்டர், Secretary, Rotaract Club of Anna University'
