@@ -350,7 +350,7 @@ export const translations = {
       contact: {
         title: 'Contact',
         email: 'ntsc2026@gmail.com',
-        phone: 'Dr. S. Saravanakumar - +91 99438 12370, Dr. Chandrabose Selvaraj - +91 80568 83900'
+        phone: 'Dr. S. Saravanakumar - +91 99438 12370, Dr.Chandrabose Selvaraj - +91 80568 83900'
       }
     },
     footer: {
