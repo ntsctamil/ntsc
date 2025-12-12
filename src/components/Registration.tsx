@@ -50,9 +50,9 @@ export default function Registration({ language }: RegistrationProps) {
           })}
         </div>
 
-        <div className="text-center mb-12 space-y-4 sm:space-y-0 sm:space-x-4">
+        <div className="text-center mb-6 space-y-3">
           <a
-            href="https://forms.gle/Ha7q2oQpKumfLf7j9"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfeVWcw_87p028zuojQAPelq5l4zy58upTrssrAO4ez_frF8w/viewform?usp=publish-editor"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-3 bg-white text-red-900 px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-100 transform hover:-translate-y-1 transition-all duration-300 shadow-xl"
@@ -60,14 +60,16 @@ export default function Registration({ language }: RegistrationProps) {
             {t.registration.button}
             <ExternalLink className="w-5 h-5" />
           </a>
+
+          {/* Abstract Guidelines Document Link */}
           <a
-            href="https://forms.gle/TBoQ4NFPp5FV54LMA"
+            href="https://docs.google.com/document/d/18eVcTibcxDdgFkqbUjsMJLsy-3hQPDSe/export?format=docx"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex items-center gap-3 bg-white text-red-900 px-8 py-4 rounded-full text-lg font-semibold hover:bg-amber-100 transform hover:-translate-y-1 transition-all duration-300 shadow-xl"
+            className="inline-flex items-center gap-3 bg-transparent border-2 border-white/30 text-white px-6 py-3 rounded-full text-sm font-medium hover:bg-white/10 transition-all duration-200"
           >
-            {t.registration.abstractButton}
-            <FileText className="w-5 h-5" />
+            {t.registration.downloadGuidelines}
+            <FileText className="w-4 h-4" />
           </a>
         </div>
 

@@ -285,6 +285,9 @@ export const translations = {
             
             'Rtr. M. C. Ranjith, Web Developer, Treasurer - Rotaract Club of Anna University',
             'Rtr. F. Alexander, Secretary, Rotaract Club of Anna University'
+            ,
+            'Rtr. Jerome, Club Trainer, Rotaract Club of Anna University',
+            'Er. Lakshmi Priya, Research Scholar'
           ]
         },
       ]
@@ -317,6 +320,7 @@ export const translations = {
       ],
       button: 'Register Now',
       abstractButton: 'Submit Abstract',
+      downloadGuidelines: 'Download Abstract Guidelines',
       note: ''
       ,
       targetAudience: {
@@ -628,8 +632,9 @@ export const translations = {
             'Rtr. S. சாய் கணேஷ், President, Rotaract Club of Anna University',
             
             'Rtr. M. C. ரஞ்சித், Web Developer, Treasurer - Rotaract Club of Anna University',
-            'Rtr. F. அலெக்சாண்டர், Secretary, Rotaract Club of Anna University'
-            
+            'Rtr. F. அலெக்சாண்டர், Secretary, Rotaract Club of Anna University',
+            'Rtr. ஜெரோம், Club Trainer, Rotaract Club of Anna University',
+            'Er. லக்ஷ்மி ப்ரியா, Research Scholar'
           ]
         }
       ]
@@ -662,6 +667,7 @@ export const translations = {
       ],
       button: 'இப்போது பதிவு செய்யுங்கள்',
       abstractButton: 'சுருக்கக் கட்டுரை சமர்ப்பிக்க',
+      downloadGuidelines: 'சுருக்கக் கட்டுரைக் வழிகாட்டுதல்களை பதிவிறக்கவும்',
       note: ''
       ,
       targetAudience: {
