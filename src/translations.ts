@@ -284,10 +284,11 @@ export const translations = {
             'Rtr. S. Saiganesh, President, Rotaract Club of Anna University',
             
             'Rtr. M. C. Ranjith, Web Developer, Treasurer - Rotaract Club of Anna University',
-            'Rtr. F. Alexander, Secretary, Rotaract Club of Anna University'
-            ,
+            'Rtr. F. Alexander, Secretary, Rotaract Club of Anna University',
             'Rtr. Jerome, Club Trainer, Rotaract Club of Anna University',
-            'Er. Lakshmi Priya, Research Scholar'
+            'Er. Lakshmi Priya, Research Scholar',
+            'Rtr. Sacchin, Club Trainer, Rotaract Club of Anna University'
+
           ]
         },
       ]
@@ -349,7 +350,7 @@ export const translations = {
       contact: {
         title: 'Contact',
         email: 'ntsc2026@gmail.com',
-        phone: '+91 91502 52295, +91 80568 83900, +91 99438 12370'
+        phone: 'Dr. S. Saravanakumar - +91 99438 12370, Dr. Chandrabose Selvaraj - +91 80568 83900'
       }
     },
     footer: {
@@ -634,7 +635,8 @@ export const translations = {
             'Rtr. M. C. ரஞ்சித், Web Developer, Treasurer - Rotaract Club of Anna University',
             'Rtr. F. அலெக்சாண்டர், Secretary, Rotaract Club of Anna University',
             'Rtr. ஜெரோம், Club Trainer, Rotaract Club of Anna University',
-            'Er. லக்ஷ்மி ப்ரியா, Research Scholar'
+            'Er. லக்ஷ்மி ப்ரியா, Research Scholar',
+            'Rtr. சச்சின், Club Trainer, Rotaract Club of Anna University'
           ]
         }
       ]
@@ -695,7 +697,7 @@ export const translations = {
       contact: {
         title: 'தொடர்பு',
         email: 'ntsc2026@gmail.com',
-        phone: '+91 91502 52295, +91 80568 83900, +91 99438 12370'
+        phone: 'Dr. S. சரவணக்குமார் - +91 99438 12370, Dr.சந்திரபோஸ் செல்வராஜ் - +91 80568 83900'
       }
     },
     footer: {
