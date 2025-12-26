@@ -141,6 +141,7 @@ export const translations = {
       poster: {
         title: 'Guidelines for Poster Presentations',
         items: [
+          'Poster size: 3x4 (Height x Width)',
           'The format of the poster is available on the website for your reference.',
           'Keep text to a minimum, focus on graphics, and ensure every element included serves a purpose.',
           'Use handouts to supplement your poster where needed.',
@@ -238,6 +239,7 @@ export const translations = {
         {
           title: 'Regional Coordinators',
           items: [
+            
             'Dr. M. V. Sureshkumar, Janson Institute of Technology, Coimbatore',
             'Dr. Uthra Durairajan, DG Vaishnav College, Chennai',
             'Dr. N. Ganga Vidya, National Institute of Technology, Trichy',
@@ -246,7 +248,8 @@ export const translations = {
             'Dr. T. Thilagavathy, CMS College of Science and Commerce, Coimbatore',
             'Dr. S. Subramanian, V.O.Chidambaram College, Thoothukkudi',
             'Dr. S. Jeyashankari, V.O.Chidambaram College, Thoothukkudi',
-            'Dr. V. Manikandane, National Institute of Technology, Karaikal'
+            'Dr. V. Manikandane, National Institute of Technology, Karaikal',
+            'Dr. R. Ganapathi Raman, Saveetha Engineering College, Chennai'
           ]
         },
         {
@@ -489,6 +492,7 @@ export const translations = {
       poster: {
         title: 'போஸ்டர் தயாரிக்கும் வழிகாட்டுதல்கள்',
         items: [
+          'போஸ்டர் அளவு: 3x4 (உயரம் x அகலம்)',
           'போஸ்டர் வடிவமைப்பு இணையதளத்தில் குறிப்புக்காக வழங்கப்பட்டுள்ளது.',
           'போஸ்டர்கள் விவாதத்தைத் தூண்டுவதாக இருக்க வேண்டும்; நீளமான அல்லது அதிக உரை அடங்கிய விளக்கங்களை தவிர்க்கவும்.',
           'உரையை குறைந்தபட்சமாக வைத்துக்கொள்ளுங்கள், படங்கள்/வரைவுகள் மீது கவனம் செலுத்துங்கள், மற்றும் சேர்க்கப்படும் ஒவ்வொரு கூறும் நோக்கத்துக்கு உகந்ததாக இருக்க வேண்டும்.',
@@ -587,6 +591,7 @@ export const translations = {
         {
           title: 'மண்டல ஒருங்கிணைப்பாளர்கள்',
           items: [
+           
             'Dr. M. V. சுரேஷ்குமார், Janson Institute of Technology, Coimbatore',
             'Dr. உத்ரா துரையராஜன், DG Vaishnav College, Chennai',
             'Dr. N. கங்கா வித்யா, National Institute of Technology, Trichy',
@@ -595,7 +600,8 @@ export const translations = {
             'Dr. T. திலகவதி, CMS College of Science and Commerce, Coimbatore',
             'Dr. S. சுப்பிரமணியம், V.O.Chidambaram College, Thoothukkudi',
             'Dr. S. ஜேயாஷங்கரி, V.O.Chidambaram College, Thoothukkudi',
-            'Dr. V. மணிகண்டன், National Institute of Technology, Karaikal'
+            'Dr. V. மணிகண்டன், National Institute of Technology, Karaikal',
+            'Dr. R. கணபதி ராமன், Saveetha Engineering College, Chennai'
           ]
         },
         {
