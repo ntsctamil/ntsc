@@ -576,7 +576,7 @@ export const translations = {
           ]
         },
         {
-          title: 'கல்லிக்குழு',
+          title: 'கல்விக்குழு',
           items: [
             'Dr. V. உமையொரு பாகன், President, Arivial Sangam, Tamil Nadu',
             'Dr. S. சந்திரசேகரன், Sr. Scientist, ISGAC, Kalpakkam',
@@ -585,7 +585,7 @@ export const translations = {
             'Dr. TATA சுதாகர், Scientist-G (Rtd.), NIOT, Chennai',
             'Dr. D. பொன்ராஜு, Scientist-OS (Rtd.), IGCAR, Kalpakkam',
             'Dr. P. சக்திவேல், CoE, Anna University, Chennai',
-            'Dr. B. ராமலிங்கம், Scientist-E, ICMR-NIRT, Chennai'
+            'Dr. B. இராமலிங்கம், Scientist-E, ICMR-NIRT, Chennai'
           ]
         },
         {
