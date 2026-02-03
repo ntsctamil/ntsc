@@ -84,15 +84,15 @@ export const translations = {
           event: 'Call for Abstracts and Registration Starts'
         },
         {
-          date: '25 Jan., 2026',
+          date: '04 Feb., 2026',
           event: 'Last date for abstract'
         },
         {
-          date: '30 Jan., 2026',
+          date: '07 Feb., 2026',
           event: 'Acceptance of abstract'
         },
         {
-          date: '05 Feb., 2026',
+          date: '10 Feb., 2026',
           event: 'Last date of registration'
         },
         {
@@ -435,15 +435,15 @@ export const translations = {
           event: 'சுருக்கக் கட்டுரைகள் மற்றும் பதிவு தொடக்கம்'
         },
         {
-          date: '25 ஜனவரி, 2026',
+          date: '04 பிப்ரவரி, 2026',
           event: 'சுருக்கக் கட்டுரைக்கான கடை்சி தேதி'
         },
         {
-          date: '30 ஜனவரி, 2026',
+          date: '07 பிப்ரவரி, 2026',
           event: 'சுருக்கக் கட்டுரை ஏற்றுக்கொள்ளுதல்'
         },
         {
-          date: '05 பிப்ரவரி, 2026',
+          date: '10 பிப்ரவரி, 2026',
           event: 'பதிவுக்கான கடைசி தேதி'
         },
         {

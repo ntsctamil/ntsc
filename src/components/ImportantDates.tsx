@@ -9,7 +9,7 @@ export default function ImportantDates({ language }: ImportantDatesProps) {
   const t = translations[language];
 
   return (
-    <section id="dates" className="py-20 bg-gradient-to-br from-amber-50 to-orange-50">
+    <section id="dates" className="h-screen overflow-auto py-20 bg-gradient-to-br from-amber-50 to-orange-50">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className={`${language === 'ta' ? 'text-4xl sm:text-5xl' : 'text-3xl sm:text-4xl'} font-bold text-center text-amber-900 mb-16`}>
           {t.dates.title}
